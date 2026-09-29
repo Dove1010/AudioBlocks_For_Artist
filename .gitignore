@@ -13,7 +13,6 @@ app/.next/
 /build
 
 # env & debug
-.env*
 *.log*
 *.tsbuildinfo
 .DS_Store
@@ -23,3 +22,4 @@ app/.next/
 .mimo/
 *.mimo
 mimo
+config.bat
