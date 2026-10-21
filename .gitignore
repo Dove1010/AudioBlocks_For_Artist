@@ -13,7 +13,6 @@ app/.next/
 /build
 
 # env & debug
-.env*
 *.log*
 *.tsbuildinfo
 .DS_Store
@@ -35,3 +34,4 @@ issue*.md
 
 # AI tool configuration (share via docs if needed)
 .kiro/
+config.bat
